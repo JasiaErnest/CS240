@@ -1,0 +1,14 @@
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\bin\Debug\net8.0\Lab 6 Cs.exe
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\bin\Debug\net8.0\Lab 6 Cs.deps.json
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\bin\Debug\net8.0\Lab 6 Cs.runtimeconfig.json
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\bin\Debug\net8.0\Lab 6 Cs.dll
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\bin\Debug\net8.0\Lab 6 Cs.pdb
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.AssemblyInfoInputs.cache
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.AssemblyInfo.cs
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.csproj.CoreCompileInputs.cache
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.dll
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\refint\Lab 6 Cs.dll
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.pdb
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\Lab 6 Cs.genruntimeconfig.cache
+C:\Users\jasia\Documents\Whatcom CS240\CS240 C#\Lab 6 Cs\obj\Debug\net8.0\ref\Lab 6 Cs.dll

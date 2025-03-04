@@ -1,0 +1,24 @@
+Data Structure: arrays
+What it's used for: Ordered collections of elements of the same data type, accessed by index.
+
+Data Structure: linked lists
+What it's used for: Sequences of nodes, where each node contains data and a reference to the next node.
+
+Data Structure: stacks
+What it's used for: Follow the Last-In-First-Out (LIFO) principle, where the last element added is the first one removed.
+
+Data Structure: queues
+What it's used for: Follow the First-In-First-Out (FIFO) principle, where the first element added is the first one removed.
+
+Data Structure: trees
+What it's used for: Hierarchical structures consisting of nodes connected by edges, with a root node and child nodes. Binary trees are a specific type where each node has at most two children.
+
+Data Structure: graphs
+What it's used for: Collections of nodes (vertices) connected by edges, representing relationships between data.
+
+Data Structure: heaps
+What it's used for: Tree-based structures that satisfy the heap property, where the value of each node is greater than or equal to (or less equal to) the value of its children.
+
+Data Structure: hash tables
+What it's used for: Store key-value pairs, using a hash function to compute the index for each key.
+
